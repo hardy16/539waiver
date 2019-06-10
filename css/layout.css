@@ -117,7 +117,7 @@ header .banner-text h1 {
 }
 
 header .banner-text h2 {
-    font: 32px/1.9em 'Roboto Slab', serif;
+    font: 20px/1.9em 'Roboto Slab', serif;
     color: #27363b;
     margin: 0 auto;
     width: 70%;
@@ -882,7 +882,7 @@ margin-left: 5px;
     padding-bottom: 40px;}
 
 
-#contact .banner-text h3 {
+#contact .banner-text h2 {
 
     font: 24px/1.9em 'Roboto Slab', serif;
     color: #efefef;
@@ -964,7 +964,7 @@ footer .social-links li {
         letter-spacing: -1px;      
     }
     header .banner-text h2 {
-        font: 28px/1.9em 'Roboto Slab', serif;
+        font: 20px/1.9em 'Roboto Slab', serif;
         width: 80%;
         text-align: center;
         margin-bottom: 20px;
@@ -996,7 +996,7 @@ footer .social-links li {
 
     #portfolio h1 { font: 16px/24px 'Roboto Slab', sans-serif; }
 
-    #contact .banner-text h3 {
+    #contact .banner-text h2 {
         font: 22px/1.9em 'Roboto Slab', serif;
         color: #efefef;
         margin: 0 auto;
@@ -1054,7 +1054,7 @@ footer .social-links li {
     }
 
 
-    #contact .banner-text h3 {
+    #contact .banner-text h2 {
         font: 18px/1.9em 'Roboto Slab', serif;
         color: #efefef;
         margin: 0 auto;
@@ -1091,7 +1091,7 @@ footer .social-links li {
     header .banner-text h1 { font: 26px 'Roboto Slab', serif; }
 
     header .banner-text h2 {
-        font: 22px/1.9em 'Roboto Slab', serif;
+        font: 18px/1.9em 'Roboto Slab', serif;
         width: 85%;
         margin-bottom: 15px;
     }
@@ -1119,7 +1119,7 @@ footer .social-links li {
     }
 
 
-    #contact .banner-text h3 {
+    #contact .banner-text h2 {
         font: 18px/1.9em 'Roboto Slab', serif;
         color: #efefef;
         margin: 0 auto;
@@ -1156,7 +1156,7 @@ footer .social-links li {
     }
 
     header .banner-text h2 {
-        font: 24px/1.9em 'Roboto Slab', serif;
+        font: 18px/1.9em 'Roboto Slab', serif;
         width: 90%;
         margin: 15px;
         text-align: center;
@@ -1184,7 +1184,7 @@ footer .social-links li {
 
     /* header social links */
 
-    #contact .banner-text h3 {
+    #contact .banner-text h2 {
         font: 16px/1.9em 'Roboto Slab', serif;
         color: #efefef;
         margin: 0 auto;
