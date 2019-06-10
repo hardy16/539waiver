@@ -190,7 +190,7 @@ li a:hover, li a:focus { color: #fff234; }
     margin: 0 auto;
 }
 
-#about_me logo{
+#about_me .logo{
 
     text-align: center;
 }
