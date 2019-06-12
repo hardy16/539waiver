@@ -524,8 +524,8 @@ margin-left: 5px;
     margin-bottom: 20px;
 }
 
-#project .project-info-1 h4{
-    font: 16px/16px 'Roboto Slab', serif;
+#project .project-info-1 h3{
+    font: 17px 'Roboto Slab', serif;
     padding: 10px 0px;
     margin: 0px 20px;
     color: #444;
